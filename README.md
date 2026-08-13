@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL_HERE" alt="Mohammed Ahraz Banner" />
+  <img src="assets/banner.jpg" width="100%" alt="Mohammed Ahraz Banner">
 </p>
 
 <h1 align="center">Hi 👋, I'm Mohammed Ahraz</h1>
